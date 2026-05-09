@@ -1,0 +1,18 @@
+[
+  {
+    "id": "tx_example_0001",
+    "occurred_at": "2026-01-01",
+    "amount": 12.5,
+    "currency": "CNY",
+    "type": "expense",
+    "category": "餐饮",
+    "merchant": "示例咖啡店",
+    "account": "",
+    "payment_method": "",
+    "note": "咖啡",
+    "raw_text": "记一笔，今天咖啡 12.5，示例咖啡店",
+    "source": "seed",
+    "created_at": "2026-01-01T09:00:00+08:00",
+    "updated_at": "2026-01-01T09:00:00+08:00"
+  }
+]

@@ -1,0 +1,2 @@
+﻿id,occurred_at,amount,currency,type,category,merchant,account,payment_method,note,raw_text,source,created_at,updated_at
+tx_example_0001,2026-01-01,12.5,CNY,expense,餐饮,示例咖啡店,,,咖啡,记一笔，今天咖啡 12.5，示例咖啡店,seed,2026-01-01T09:00:00+08:00,2026-01-01T09:00:00+08:00

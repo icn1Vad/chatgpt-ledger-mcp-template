@@ -1,0 +1,12 @@
+default_currency: CNY
+categories:
+  餐饮:
+    aliases: [吃饭, 午饭, 晚饭, 早餐, 咖啡, 奶茶, 餐厅, 咖啡店]
+  交通:
+    aliases: [打车, 地铁, 公交, 高铁, 机票]
+  学习:
+    aliases: [书, 课程, 资料, 论文]
+  日用:
+    aliases: [超市, 生活用品, 快递]
+  娱乐:
+    aliases: [电影, 游戏, 演出]
