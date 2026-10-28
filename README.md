@@ -1,5 +1,12 @@
 # ChatGPT Ledger MCP Template
 
+A small **TypeScript MCP server template** for turning user-provided transactions into a structured ledger and exportable records.
+
+[Project case study](https://icn1vad.github.io/projects/ledger-mcp/) · [Tool and workflow overview](docs/portfolio-overview.md)
+
+This is a single-user template, not a claim of a hosted multi-user financial service. The example deployment's authentication and storage policies must be configured for the intended environment. Real personal ledgers are not part of this public repository.
+
+
 A minimal MCP server template for building a personal bookkeeping Connector for ChatGPT.
 
 It lets a user say natural-language entries such as:
